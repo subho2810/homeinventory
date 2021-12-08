@@ -1,0 +1,28 @@
+2
+Cannodalo bicycle
+always Lost
+Trek684994
+true
+500
+03/22/1995
+Aurora Cycle
+Vintage Bike
+images/bike.png
+Laptop Asus
+Family room
+1234567
+true
+550000
+07/15/2020
+.COM Store
+Good Laptop
+C:\Users\ASUS\Desktop\College work\java Suven Internship\Home Inventary\images\laptop Asus.jpeg
+8
+always Lost
+Basement Office
+Driveway
+Family room
+Furnace room
+My Office
+Under my Desk
+Under The other desk
